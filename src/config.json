@@ -4,7 +4,7 @@
     "url": "http://localhost:8080",
     "name": "Namespace App Club",
     "owner": "namespace",
-    "description": "T&T's Software Developer Community"
+    "description": "require mixin"
   },
   "plugins": [
     "./plugins/paginator.coffee"

@@ -1,81 +1,30 @@
 ---
-title: README
-author: the-wintersmith
-date: 2013-04-30
+title: Hello World
+author: Marcus Sanatan
+date: 2015-05-24
 template: article.jade
 ---
 
-Welcome to your new blog! This is the default blog template with RSS, pagination and an archive. There are other templates available -- run `wintersmith new --help` to list them.
+### This is **namespace**
 
-## _Repeat after me:_ This is my blog. There are many like it, but this one is mine. My blog is my best friend. It is my life. I must master it as I must master my life. My blog, without me, is useless. Without my blog, I am useless.
+Hi everyone, we're officially launching namespace - a club for software developers in Trinidad and Tobago. We're a movement to remove the silos of people scattered throughout the nation that prevents us from build a community. 
 
-Good, now, the directory structure of your blog is as follows:
+## Why do we need a community?
 
-```
-├── config.json               <- site configuration
-├── contents
-│   ├── about.md
-│   ├── archive.json
-│   ├── articles              <– each article has its own directory
-│   │   ├── another-test
-│   │   │   └── index.md
-│   │   ├── bamboo-cutter
-│   │   │   ├── index.md
-│   │   │   └── taketori_monogatari.jpg
-│   │   ├── hello-world
-│   │   │   └── index.md
-│   │   ├── markdown-syntax
-│   │   │   └── index.md
-│   │   └── red-herring
-│   │       ├── banana.png
-│   │       └── index.md
-│   ├── authors               <- author metadata, check author.jade
-│   │   ├── baker.json
-│   │   └── the-wintersmith.json
-│   ├── css
-│   │   └── main.css
-│   └── feed.json
-├── plugins
-│   └── paginator.coffee      <- paginator plugin
-├── templates
-│   ├── archive.jade
-│   ├── article.jade
-│   ├── author.jade
-│   ├── feed.jade
-│   ├── index.jade
-│   └── layout.jade
-└── views
-    └── articles.coffee       <- view that lists articles
-```
+Why not? When like-minded people come together great things can happen. There are so many iniatitives happening but their reach may be limited. namespace will be the medium to create synergies amongst our divisions so that as a group we can create truly special experiences. It's also a good crowd to have fun, there's more to life than 1s and 0s :). 
 
-Articles are sorted by date and 3 are shown per page, you can configure this and more in config.json. Check paginator.coffee for all options related to pagination, most plugins also have their own options.
+## The namespace way of life
 
-### A typical article
+namespace and all the activities we do come from these 5 pillars:
 
-```markdown
----
-title: Hear me blog
-author: johndoe
-date: 2012-12-12 12:12
----
+* Recreation
+* Education
+* Social Good
+* Professional Development
+* Health
 
-This will be shown as the article excerpt.
+We want to grow as software developers but we also want to grow as a people. As a club we do more than just the tech thing, a community is more than its common interests after all. That's why our mantra is *require mixin* - we're all about bringing everyone together. 
 
-## A h2, hr or <span class="more"> marks where the intro cuts off
+## Join us!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-```
-
-## Links in the markdown to other items in the content tree will be resolved for you.
-
-For example a link to `../bamboo-cutter/index.md` resolves to [`/articles/bamboo-cutter/`](../bamboo-cutter/index.md).
-
----
-
-This is where I leave you to your own devices. Join **#wintersmith** on freenode if you have any questions.
+We got a whole lot of things planned out for you, and we really believe we'll all feel better about our profession and passion if we do it together. With namespace, local developers and enthusiasts will finally have that common ground - one module, no globals.

@@ -1,0 +1,28 @@
+{
+  "locals": {
+    "url": "/",
+    "name": "Namespace App Club",
+    "owner": "namespace",
+    "description": "require mixin"
+  },
+  "output":"../build",
+  "plugins": [
+    "./plugins/paginator.js",
+    "wintersmith-nunjucks"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}

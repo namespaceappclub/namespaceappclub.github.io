@@ -7,6 +7,14 @@ installed visit [here](http://nodejs.org).
 The commands on the repo assume a BASH like envrionment, meaning if you are using
 Windows you will have to preform the tasks manually.
 
+##Concepts
+
+We have a `working` branch and a `master` branch. The `working` branch is the home
+of the source code, please do not overwrite it with build files!
+
+The `master` branch is the branch `npm run deploy` deploys build files to. You
+should never have to touch anything in there!
+
 ##Authoring
 
 Add markdown files to the the contents folder to create a new post.

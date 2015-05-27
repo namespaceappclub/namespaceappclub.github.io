@@ -41,6 +41,8 @@ you could do:
   git checkout -b 'title-software-and-rogue-dromendaries'
 
 ```
+After running that command, put your content in the contents folder and push to *your* fork of the repo.
+You should then make a pull request against the `working` branch of this repo.
 
 ###Publishing
 
@@ -56,6 +58,9 @@ public Internet if desired.
 The second command will attempt to deploy directly to the namespace blog.
 Obviously you will need write access to the repository to accomplish this.
 
-Talk to @msanatan if you need to have something published. He is the current maintainer.
+As an example, let's say I just made a pull request to merge the branch `working-hard` from `metasansana/namespaceappclub.github.io`. The steps the maintainer would take are:
 
-
+1. Review that pull request for nonesense.
+2. If its ok then merge it into *his/her* working branch locally.
+3. Run `npm run deploy`
+4. Bask in the glory of success.

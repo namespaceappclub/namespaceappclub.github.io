@@ -8,6 +8,7 @@ template: article.jade
 
 Yes! I know you read that already but I'm repeating it. Namespace is here
 and ready to shake a tail feather.
+<span class="more"></span>
 
 I felt I should make a post to explain Namespace as succinctly as possible, so here goes:
 

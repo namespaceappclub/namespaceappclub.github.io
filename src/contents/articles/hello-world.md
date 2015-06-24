@@ -8,6 +8,7 @@ template: article.jade
 ### This is **namespace**
 
 Hi everyone, we're officially launching namespace - a club for software developers in Trinidad and Tobago. We're a movement to remove the silos of people scattered throughout the nation that prevents us from build a community. 
+<span class="more"></span>
 
 ## Why do we need a community?
 

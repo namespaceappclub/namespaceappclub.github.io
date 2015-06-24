@@ -6,6 +6,8 @@ template: article.jade
 ---
 
 On Saturday 30th May, Namespace hosted a public coding session. Public coding mirrors the coworking experience, a style of work where persons do independent work in a shared space.
+<span class="more"></span>
+
 The idea behind coworking is that there is inherent value to working alongside other individuals even if you’re not all working on the same things. It’s an effort by remote workers, freelancers and the like to preserve some of the benefits of traditional office work such as socializing, building relationships and fostering a sense of belonging outside the company walls.
 
 The Namespace team felt that the coworking model could be useful for software developers who often work on projects on their own in their spare time.  So members of the team met on the Indian Arrival Day holiday for a public coding session. Five of us occupied the M12 study room in UWI’s Student Activity Centre for five hours, temporarily converting it into a workspace for software developers. 

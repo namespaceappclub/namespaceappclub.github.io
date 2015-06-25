@@ -1,6 +1,6 @@
 ---
 title: Hello World
-author: Marcus Sanatan
+author: msanatan
 date: 2015-05-24
 template: article.jade
 ---

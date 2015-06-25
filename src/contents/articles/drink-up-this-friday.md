@@ -1,6 +1,6 @@
 ---
 title: Drink Up This Friday
-author: 'Lasana Murray'
+author: metasansana
 date: 2015-06-22
 template: article.jade
 ---

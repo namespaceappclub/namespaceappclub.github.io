@@ -1,6 +1,6 @@
 ---
 title: Namespace Is Here (Yay!)
-author: 'Lasana Murray'
+author: metasansana
 date: 2015-05-27
 template: article.jade
 ---

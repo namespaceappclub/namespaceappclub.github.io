@@ -5,7 +5,7 @@ date: 2015-06-29
 template: article.jade
 ---
 
-What do Code and Drinks have in common? Not that much thankfully (imagine the bugs). Since we had an event for [coding](/articles/public-coding-roundup.html) recently, this time we got about the drinking part with our first mixer!
+What do Code and Drinks have in common? Not that much thankfully (imagine the bugs). Since we had an event for [coding](/articles/public-coding-roundup.html) recently, this time we got about the drinking part!
 <span class="more"></span>
 
 We got cozy at [Bootleggers](https://www.facebook.com/Bootleggerstt) from around 6pm. The rain killed our dream to sit outside but it didn't kill night one bit. 

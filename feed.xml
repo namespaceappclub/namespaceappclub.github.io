@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Namespace App Club</title>
+    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>/</link>
+    <description>require mixin</description>
+    <pubDate>Mon, 29 Jun 2015 00:00:00 +0000</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Cold Drinks Were the Remedy</title>
+      <link>//articles/cold-drinks-were-the-remedy.html</link>
+      <pubDate>Mon, 29 Jun 2015 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">//articles/cold-drinks-were-the-remedy.html</guid>
+      <author></author>
+      <description>&lt;p&gt;What do Code and Drinks have in common? Namespace events! Thankfully not together (imagine the bugs). Since we had an event for &lt;a href=&quot;/articles/public-coding-roundup.html&quot;&gt;coding&lt;/a&gt; recently, this time we got about the drinking part!
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We got cozy at &lt;a href=&quot;https://www.facebook.com/Bootleggerstt&quot;&gt;Bootleggers&lt;/a&gt; from around 6pm. The rain killed our dream to sit outside but it didn’t kill our night one bit. &lt;/p&gt;
+&lt;p&gt;Our conversations flowed from the get go. At times we were looking at software developer jobs available in T&amp;amp;T, and how to ensure all our good talent doesn’t get exported. Some Node.js developers had a chat about the future of JavaScript (we’re pretty excited for ES6!) and how &lt;a href=&quot;https://www.npmjs.com/&quot;&gt;NPM&lt;/a&gt; really supports an ecosystem that keeps developers happy and productive. We weren’t just forward thinking for Node.js, what about Software Development as a whole? The region seems to be blazing with mobile app development, maybe data might be the next big wave to take us by storm? No one seemed sure but we all got the feeling that even bigger things are happening - it’s an amazing time to be in our profession. &lt;/p&gt;
+&lt;p&gt;How much code do you have to write to buy a brand new car? For one guy it took 18 lines (what am I doing with my life?). Hey, that guy doesn’t like &amp;gt;insert programming style preference&amp;lt;! No one cares, we had a lot bigger things on the table. Speaking of things on the table, the drinks were not a myth! I elected for the following beauty:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/chocolate-milkshake.jpg&quot; alt=&quot;Chocolate and Raspberry Milkshake!&quot; style=&quot;width: 250px; height: 350px; display: block; margin: 0 auto;&quot;/&gt;
+Nothing more hardcore than getting drunk off a chocolate and raspberry milkshake :). As with any other Trinbagonian gathering food was a must, unfortunately no pics (I guess I was hungry).&lt;/p&gt;
+&lt;p&gt;Everyone who came in and out had a good time. After all, birds of a feather flock together. Till next time, Happy mixing everyone!&lt;/p&gt;
+&lt;p&gt;P.S. Know.your.limit. If you’re drinking alcohol please arrange transport before you hit the road, arrive alive my friend!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Drink Up This Friday</title>
+      <link>//articles/drink-up-this-friday.html</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">//articles/drink-up-this-friday.html</guid>
+      <author></author>
+      <description>&lt;p&gt;The Namespace will be at it again, this Friday 26 June at 6:00PM we head to &lt;a href=&quot;https://www.facebook.com/Bootleggerstt&quot;&gt;Bootleggers&lt;/a&gt;!
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We are celebrating Fri Day, developer style! :)&lt;/p&gt;
+&lt;p&gt;What’s a drink up? I beleive the technical term is &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/6/68/Lime-Whole-Split.jpg&quot;&gt;‘lime’&lt;/a&gt;, at least in T&amp;amp;T.&lt;/p&gt;
+&lt;p&gt;It’s an oppurtunity to once again meet some interesting people (that’s why you like Namespace) only this time with drinks and chips.&lt;/p&gt;
+&lt;p&gt;Hope to see you there!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Public Coding Roundup</title>
+      <link>//articles/public-coding-roundup.html</link>
+      <pubDate>Tue, 09 Jun 2015 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">//articles/public-coding-roundup.html</guid>
+      <author></author>
+      <description>&lt;p&gt;On Saturday 30th May, Namespace hosted a public coding session. Public coding mirrors the coworking experience, a style of work where persons do independent work in a shared space.
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The idea behind coworking is that there is inherent value to working alongside other individuals even if you’re not all working on the same things. It’s an effort by remote workers, freelancers and the like to preserve some of the benefits of traditional office work such as socializing, building relationships and fostering a sense of belonging outside the company walls.&lt;/p&gt;
+&lt;p&gt;The Namespace team felt that the coworking model could be useful for software developers who often work on projects on their own in their spare time.  So members of the team met on the Indian Arrival Day holiday for a public coding session. Five of us occupied the M12 study room in UWI’s Student Activity Centre for five hours, temporarily converting it into a workspace for software developers. &lt;/p&gt;
+&lt;p&gt;The session was quite productive work-wise. Happily, we were also able to have spontaneous and productive interactions. Having had the experience, we now have a better appreciation of the opportunities it offers: 
+Introductions and networking - Everyone at the session already knew each other; however, it would have been a great way for anyone else to meet with members of the local developer community.
+Feedback and help - It was easy to reach out and get feedback on problems we were facing. Developers trying out new tools or programming languages will find it very handy to have someone nearby willing to lend a hand when they run into trouble. 
+Exchanging ideas - What’s that great D3.js wrapper I wish I knew about? Why is loading 1000 items into the DOM at once a bad idea? We also got to share and exchange ideas with one another that would prove useful in future. &lt;/p&gt;
+&lt;p&gt;Because long periods of focus are important for creative work we had to discourage group discussions as they would often become noisy and distracting.&lt;/p&gt;
+&lt;p&gt;We had a genuinely productive coding session interspersed with friendly conversation and the occasional banter. It reminded me of the good times I had with my coworkers at my old office, which was probably more fun that it ever should have been. We know that other developers out there are using their weekends to work on new or ongoing projects and we hope that they join us for our next public coding session.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Public coding - Sat May 30, 2015</title>
+      <link>//articles/public-coding-30-may-2015.html</link>
+      <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">//articles/public-coding-30-may-2015.html</guid>
+      <author></author>
+      <description>&lt;p&gt;Namespace will be doing &lt;em&gt;public coding&lt;/em&gt; on the Indian Arrival Day holiday this Saturday. 
+What we call public coding is not a structured activity, it’s just a get together for developers to work on their personal projects but in a shared space. 
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
+It’s an opportunity for you to meet and interact with your peers in the local software community while also getting stuff done.
+There are no requirements, just show up, say hi and get to work. &lt;/p&gt;
+&lt;p&gt;We would appreciate you stopping by even if you don’t have anything to work on as we’d like to engage with as many people in our community as possible.&lt;/p&gt;
+&lt;p&gt;We’ll be meeting up at the Student Activity Centre at the UWI Campus in St. Augustine between 1pm and 6pm. Hope to see you there and have a Happy Indian Arrival Day holiday tomorrow.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Namespace Is Here (Yay!)</title>
+      <link>//articles/namespace-is-here.html</link>
+      <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">//articles/namespace-is-here.html</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;http://30.media.tumblr.com/tumblr_lvyx3aVWsS1qcmpuao1_500.gif&quot; alt=&quot;A celebratory .gif of Sonic the Hedgehog&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Yes! I know you read that already but I’m repeating it. Namespace is here
+and ready to shake a tail feather.
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I felt I should make a post to explain Namespace as succinctly as possible, so here goes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We are an activity club for software developers and persons interested in the field
+of software development and its related activities.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That was not very brief was it? Let’s try again:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Namespace puts together events and activities we hope people like you will enjoy. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You being the software developers of Trinidad and Tobago and potentially the wider Caribbean. Think of us as a co-ed network for devs or a Computer Society without the computers (just the code).&lt;/p&gt;
+&lt;p&gt;Our goal here is to breathe some life into the local software industry. This is one
+step toward resuscitation.&lt;/p&gt;
+&lt;p&gt;Look out for more updates soon!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>//articles/hello-world.html</link>
+      <pubDate>Sun, 24 May 2015 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">//articles/hello-world.html</guid>
+      <author></author>
+      <description>&lt;h3 id=&quot;this-is-namespace-&quot;&gt;This is &lt;strong&gt;namespace&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Hi everyone, we’re officially launching namespace - a club for software developers in Trinidad and Tobago. We’re a movement to remove the silos of people scattered throughout the nation that prevents us from build a community. 
+&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;why-do-we-need-a-community-&quot;&gt;Why do we need a community?&lt;/h2&gt;
+&lt;p&gt;Why not? When like-minded people come together great things can happen. There are so many iniatitives happening but their reach may be limited. namespace will be the medium to create synergies amongst our divisions so that as a group we can create truly special experiences. It’s also a good crowd to have fun, there’s more to life than 1s and 0s :). &lt;/p&gt;
+&lt;h2 id=&quot;the-namespace-way-of-life&quot;&gt;The namespace way of life&lt;/h2&gt;
+&lt;p&gt;namespace and all the activities we do come from these 5 pillars:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Recreation&lt;/li&gt;
+&lt;li&gt;Education&lt;/li&gt;
+&lt;li&gt;Social Good&lt;/li&gt;
+&lt;li&gt;Professional Development&lt;/li&gt;
+&lt;li&gt;Health&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We want to grow as software developers but we also want to grow as a people. As a club we do more than just the tech thing, a community is more than its common interests after all. That’s why our mantra is &lt;em&gt;require mixin&lt;/em&gt; - we’re all about bringing everyone together. &lt;/p&gt;
+&lt;h2 id=&quot;join-us-&quot;&gt;Join us!&lt;/h2&gt;
+&lt;p&gt;We got a whole lot of things planned out for you, and we really believe we’ll all feel better about our profession and passion if we do it together. With namespace, local developers and enthusiasts will finally have that common ground - one module, no globals.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
